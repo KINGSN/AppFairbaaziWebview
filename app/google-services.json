@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953438092295",
+    "project_id": "fairbazi-e4630",
+    "storage_bucket": "fairbazi-e4630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953438092295:android:4f90befe3c5c30f0f5bea2",
+        "android_client_info": {
+          "package_name": "com.app.fairbaazi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953438092295-vt6u3e16gippvtkkq4mqtnsut8asq9f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55ROsg9CZTgsQpIrrqEUJF908439wsOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953438092295-vt6u3e16gippvtkkq4mqtnsut8asq9f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
